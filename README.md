@@ -1,6 +1,10 @@
 ﻿# todo-app
-cd server /n
-npm init -y
-npm install express cors
+cd server   
+
+npm init -y   
+
+npm install express cors   
+
 node server.js
+
 
